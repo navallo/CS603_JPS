@@ -1,4 +1,4 @@
-# Starter code fomr COMPSCI 603 Assignment 4: A* with Jump-Point Search
+# Assignment 4: A* with Jump-Point Search
 
 ## Dependencies
 `sudo apt-get install cmake build-essential clang libgoogle-glog-dev  libgflags-dev cimg-dev`
